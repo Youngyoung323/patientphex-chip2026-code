@@ -1,0 +1,31 @@
+{
+  "repo": "cambridgeltl/SapBERT-from-PubMedBERT-fulltext",
+  "revision": "090663c3ae57bf35ffe4d0d468a2a88d03051a4d",
+  "files": {
+    "README.md": {
+      "sha256": "377c2a56de9d04fe7c33691e24da24d585c077681a16bce1917a6cc140a99ed1",
+      "bytes": 4084
+    },
+    "config.json": {
+      "sha256": "c0fa35def52bf7d81865d23dba0417fdbb67d416fdde70cae5c7beab476b584e",
+      "bytes": 462
+    },
+    "model.safetensors": {
+      "sha256": "a4696930afef9aab296196d3d2142216c44cba24f21b4f285ceca7af21025614",
+      "bytes": 437955508
+    },
+    "special_tokens_map.json": {
+      "sha256": "303df45a03609e4ead04bc3dc1536d0ab19b5358db685b6f3da123d05ec200e3",
+      "bytes": 112
+    },
+    "tokenizer_config.json": {
+      "sha256": "76eb84b4b5b0d1bdba02906d7fae249be541c41d72e2024094aea513f98f2be7",
+      "bytes": 198
+    },
+    "vocab.txt": {
+      "sha256": "79489a52be45e6fa033521e8ce8e4f62aedc0a742ee2aa6fc04667e5b0b1454d",
+      "bytes": 226150
+    }
+  },
+  "source": "public_pretraining_model_not_patientphex_finetune"
+}
